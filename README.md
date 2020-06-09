@@ -1,0 +1,2 @@
+# freecodecampthings
+Exercises from FCC
