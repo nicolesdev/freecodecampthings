@@ -1,2 +1,2 @@
 # freecodecampthings
-Exercises from FCC
+Past coding exercises from freecodecamp.org
