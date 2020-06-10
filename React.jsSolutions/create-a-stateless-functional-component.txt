@@ -1,0 +1,10 @@
+const MyComponent = function() {
+  // change code below this line
+
+return (
+  <div className="textArea">
+  Hello there</div>
+)
+
+  // change code above this line
+}
